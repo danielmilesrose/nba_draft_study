@@ -1,1 +1,1 @@
-# nba_attendance_study
+NBA Draft Study
