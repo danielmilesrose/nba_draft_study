@@ -4,6 +4,7 @@ By Daniel Rose, Matthew Byrne, Scott Chen, Julia Min, Leon Luong, and Jovane Can
 \
 Project synopsis:
 \
+\
 Every June, hundreds of basketball players try to reach their ultimate dream they’ve had since they were young; making it to the NBA. 
 Conversely, every June, the 30 teams hope to draft their next face of their franchise.
 \
