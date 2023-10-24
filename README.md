@@ -6,19 +6,19 @@ Project synopsis:
 \
 \
 Every June, hundreds of basketball players try to reach their ultimate dream they’ve had since they were young; making it to the NBA. 
-Conversely, every June, the 30 teams hope to draft their next face of their franchise.
+Conversely, every June, the 30 teams hope to draft their next face of their franchise.\
 \
 High school phenoms like Lebron James, college sensations like Michael Jordan, and the best players from overseas like Nikola Jokic, all 
-come together on one night in June to see which franchise they will start their careers with.
-
+come together on one night in June to see which franchise they will start their careers with.\
+\
 We wanted to take a closer look at the NBA draft to see if there were any patterns or indicators from the history of the draft that would 
-correlate with a player’s future success in the league.  
-
-Does draft position directly correlate with career earnings?​
-Were there any schools that produced NBA players at a higher rate?
-What geographic region produces the most NBA players?
-Is there any correlation between birth month and success?
-
+correlate with a player’s future success in the league.\
+\
+Does draft position directly correlate with career earnings?​\
+Were there any schools that produced NBA players at a higher rate?\
+What geographic region produces the most NBA players?\
+Is there any correlation between birth month and success?\
+\
 The answers to these questions could be compelling for both players with NBA dreams trying to increase their chances of making it to the 
 league, and for NBA General Managers hoping to build their next championship team.
 
