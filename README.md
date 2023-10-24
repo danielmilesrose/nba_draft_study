@@ -20,15 +20,15 @@ What geographic region produces the most NBA players?\
 Is there any correlation between birth month and success?\
 \
 The answers to these questions could be compelling for both players with NBA dreams trying to increase their chances of making it to the 
-league, and for NBA General Managers hoping to build their next championship team.
-
-
-Summaries of findings:
-
-Salary Analysis Per NBA draft position:
--First overall pick earns the most.  Nearly 24% increase in earnings compared to 2nd overall pick.
--First round pick earns the most.  First round picks average 3.4 times or 71% more than second round picks.
-
+league, and for NBA General Managers hoping to build their next championship team.\
+\
+\
+Summaries of findings:\
+\
+Salary Analysis Per NBA draft position:\
+-First overall pick earns the most.  Nearly 24% increase in earnings compared to 2nd overall pick.\
+-First round pick earns the most.  First round picks average 3.4 times or 71% more than second round picks.\
+\
 Draft Year Analysis:
 -Players drafted in 1996 made the most. Career earnings for that year peaked at 50 million in inflation-adjusted dollars. Since then, there 
 has been a slight downward trend. However, it is worth noting that we do not have an accurate dollar amount for those players drafted in 
