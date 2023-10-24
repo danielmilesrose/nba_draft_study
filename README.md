@@ -1,12 +1,12 @@
 NBA Draft Study
 By Daniel Rose, Matthew Byrne, Scott Chen, Julia Min, Leon Luong, and Jovane Cano
-
-
+\
+\
 Project synopsis:
-
+\
 Every June, hundreds of basketball players try to reach their ultimate dream they’ve had since they were young; making it to the NBA. 
-Conversely, every June, the 30 teams hope to draft their next face of their franchise.  
-
+Conversely, every June, the 30 teams hope to draft their next face of their franchise.
+\
 High school phenoms like Lebron James, college sensations like Michael Jordan, and the best players from overseas like Nikola Jokic, all 
 come together on one night in June to see which franchise they will start their careers with.
 
