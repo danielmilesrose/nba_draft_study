@@ -64,4 +64,4 @@ needed to explain why February and March produce the most players, however.\
 Resources:\
 https://www.kaggle.com/datasets/thedevastator/exploring-nba-player-performance-and-salaries-19 \
 https://fred.stlouisfed.org/series/CPIAUCNS \
-https://www.scienceforsport.com/relative-age-effect/ \
+https://www.scienceforsport.com/relative-age-effect/
